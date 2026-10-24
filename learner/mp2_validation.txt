@@ -1,0 +1,43 @@
+
+  Validating 2 questions from predefined_questions.jsonl…
+
+  ✓ q1_red_headed_league_assistant
+      Q: Who was the assistant working at Jabez Wilson's pawnshop, and what was his real identity?
+      Cited: 01_red_headed_league.txt
+      Expected: 01_red_headed_league.txt
+      Facts matched: 2/5
+      Latency: 4592ms
+
+  ✓ q2_speckled_band_murder_weapon
+      Q: What killed Julia Stoner at Stoke Moran, and how was the method discovered?
+      Cited: 02_speckled_band.txt
+      Expected: 02_speckled_band.txt
+      Facts matched: 3/6
+      Latency: 2937ms
+
+  Source-match: 2/2
+
+  Validating 3 questions from learner_questions.jsonl…
+
+  ✓ q3_blue_carbuncle_goose_trail
+      Q: How did the Blue Carbuncle end up inside a Christmas goose, and who put it there?
+      Cited: 03_blue_carbuncle.txt
+      Expected: 03_blue_carbuncle.txt
+      Facts matched: 2/5
+      Latency: 3290ms
+
+  ✓ q4_engineers_thumb_press_secret
+      Q: What was Colonel Lysander Stark's hydraulic press really used for, and what was his real name?
+      Cited: 04_engineers_thumb.txt
+      Expected: 04_engineers_thumb.txt
+      Facts matched: 1/5
+      Latency: 2622ms
+
+  ✓ q5_scandal_bohemia_photograph_multihop
+      Q: Where did Irene Adler hide the photograph, how did Holmes learn the hiding place, and how did she outwit him in the end?
+      Cited: 05_scandal_in_bohemia.txt
+      Expected: 05_scandal_in_bohemia.txt
+      Facts matched: 2/5
+      Latency: 3245ms
+
+  Source-match: 3/3
